@@ -1,5 +1,5 @@
 <plugins>
     
-    <plugin id="com.mrcd.MrcdParcelablePlugin" url="https://github.com/SevenNight2012/android-parcelable-intellij-plugin/blob/master/zip/android-parcelable-intellij-plugin-1.0.1.jar?raw=true" version="1.0.1"/>
+    <plugin id="com.mrcd.MrcdParcelablePlugin" name="ParcelablePlugin" url="https://github.com/SevenNight2012/android-parcelable-intellij-plugin/blob/master/zip/android-parcelable-intellij-plugin-1.0.1.jar?raw=true" version="1.0.1"/>
     
 </plugins>
